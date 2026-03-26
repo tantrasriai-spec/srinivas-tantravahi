@@ -16,14 +16,6 @@ Production-ready RAG system with hybrid retrieval, caching, and LLM integration
 
 Tech: FastAPI, OpenSearch, Redis, Postgres, Vertex AI, Docker
 
-🔹 PII Shield
-
-Custom PII detection and masking service with support for organization-defined patterns
-
-Highlights:
-
-Detects emails, SSN, phone numbers, and custom sensitive fields
-Integrates with LLM pipelines to prevent data leakage
 
 🔹 Multi-Agent Recommendation System
 
